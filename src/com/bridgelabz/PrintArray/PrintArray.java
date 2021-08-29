@@ -6,7 +6,7 @@ public class PrintArray
 		{		
 			Integer[] integerArr = {5,6,7};
 			Double[] doubleArr = {6.33 , 3.89, 7.99};
-			Character[] charArr = {'P', 'U', 'R', 'F', 'I', 'O','S'};
+			Character[] charArr = {'P', 'E', 'R', 'F', 'I', 'O','S'};
 			toPrint(integerArr);
 			toPrint(doubleArr);
 			toPrint(charArr);
